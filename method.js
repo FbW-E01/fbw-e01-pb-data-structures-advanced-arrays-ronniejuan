@@ -118,4 +118,8 @@ console.log(searchByWords(friends,"i"));
 
 // #### 6. Square Root
 // * Given an array of numbers, find the square root of each element in the array.
+const square =[2,4,5];
+console.log(Math.sqrt(square));
+
+
 
